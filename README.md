@@ -4,7 +4,7 @@
 ## Projects
 存放Linux实验代码
 
-1、test1.txt    用函数实现cat命令的功能
+1、test1.txt    用函数实现cat命令的功能    
 2、studentsystem.c   简易学生管理系统 
 实现的功能：
 + 此系统实现了姓名与成绩自动生成的功能
